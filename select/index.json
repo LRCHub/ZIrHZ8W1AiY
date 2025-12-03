@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ガラスの上のBroken",
+  "base_artist": "ribbon",
+  "createdAt": "2025-12-03T09:13:25.259386Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスの上のBroken",
+      "artist": "ribbon",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスの上のBroken_ribbon.txt"
+    }
+  ]
+}
